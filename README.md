@@ -15,10 +15,10 @@ Sou um programador, desenvolvedor full-stack com experiência em C, C#, Java, Ja
 
 ## 🚀 Principais Projetos  
 
-### [🔗 Projeto 1 - Software de Facturação de Produtos (https://sedy-shop.vercel.app/)  
+### 🔗 Projeto 1 - Software de Facturação de Produtos (https://sedy-shop.vercel.app/)  
 Descrição: *Sistema de gestão e venda com interface amigável*  
 
-### [🔗 Projeto 2 - Portfólio Web (https://eny-k1d.vercel.app/)  
+### 🔗 Projeto 2 - Portfólio Web (https://eny-k1d.vercel.app/)  
 Descrição: *Portfólio de apresentação de serviços*  
 
 ---
