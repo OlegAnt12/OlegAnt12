@@ -1,4 +1,4 @@
-# 🌟 Holeg António - Desenvolvedor de Software |   
+# 🌟 Holeg António - Desenvolvedor de Software
 
 **Bem-vindo ao meu portfólio GitHub!** Aqui podes encontrar uma coleção dos meus projetos, colaborando para soluções eficientes e inovadoras de desenvolvimento.
 
